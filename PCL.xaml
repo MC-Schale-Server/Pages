@@ -25,6 +25,6 @@
             Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
 
         </StackPanel>
--->
+    -->
     </StackPanel>
 </local:MyCard>

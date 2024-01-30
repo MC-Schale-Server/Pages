@@ -3,7 +3,7 @@
 <local:MyHint Margin="0,0,0,15" Text="欢迎来到 MC-Schale 服务器！" IsWarn="False" />
 
 <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
-
+    <StackPanel Margin="25,40,23,15">
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏" EventData="1.20.1|frp.xiaowuap.com:43262" ToolTip="服务器 IP：frp.xiaowuap.com:43262" />
 <!--     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"

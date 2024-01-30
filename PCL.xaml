@@ -3,9 +3,6 @@
 <local:MyHint Margin="0,0,0,15" Text="欢迎来到 MC-Schale 服务器！" IsWarn="False" />
 
 <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
-    <StackPanel Margin="25,40,23,15">
-        <TextBlock Margin="0,0,0,4"
-            Text="服务器内严禁讨论原神" />
 
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏" EventData="1.20.1|frp.xiaowuap.com:43262" ToolTip="服务器 IP：frp.xiaowuap.com:43262" />
@@ -26,5 +23,12 @@
 
         </StackPanel>
     -->
+    </StackPanel>
+    <local:MyCard Title="服务器通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+        <StackPanel Margin="25,40,23,15">
+            <TextBlock Margin="0,0,0,4"
+                Text="服务器内严禁讨论原神" />
+            <TextBlock Margin="0,0,0,4"
+                Text=“此处将用于发布相关公告” />
     </StackPanel>
 </local:MyCard>

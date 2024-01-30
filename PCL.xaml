@@ -31,6 +31,14 @@
         <TextBlock Margin="0,0,0,4"
             Text="服务器内严禁讨论原神" />
         <TextBlock Margin="0,0,0,4"
-            Text="下方将用于发布相关公告" />
+            Text="服务器临时IP：
+                  mc-schale.liycxc.link
+                  若延迟高则用下面的IP：
+                  frp.xiaowuap.com:43262
+                  基岩版临时IP：
+                  frp.xiaowuap.com
+                  端口：65172
+                  服务器暂时开启白名单
+                  可以找TPOD或病度lvl添加白名单" />
     </StackPanel>
 </local:MyCard>

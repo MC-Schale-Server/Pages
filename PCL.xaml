@@ -9,7 +9,7 @@
 <!--     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="打开 服务器官网" EventType="打开网页" EventData="https://mc-schale-server.github.io/" /> -->
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开 服务器资源包新构建库" EventType="打开网页" EventData="https://github.com/MC-Schale-Server/Resource-packs"
+            Text="打开 服务器资源包新构建库" EventType="打开网页" EventData="https://github.com/MC-Schale-Server/Resource-packs" />
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
 

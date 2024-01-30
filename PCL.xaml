@@ -29,6 +29,6 @@
             <TextBlock Margin="0,0,0,4"
                 Text="服务器内严禁讨论原神" />
             <TextBlock Margin="0,0,0,4"
-                Text=“此处将用于发布相关公告” />
+                Text="下方将用于发布相关公告" />
     </StackPanel>
 </local:MyCard>

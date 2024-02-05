@@ -43,12 +43,6 @@
         <TextBlock Margin="0,0,0,4"
             Text="play2.mc-schale.com" />
         <TextBlock Margin="0,0,0,4"
-            Text="若主节点无法连接，其余节点正常时，" />
-        <TextBlock Margin="0,0,0,4"
-            Text="请尝试临时节点IP：（请勿作为主要IP，该节点仅在主节点出问题时启用）" />
-        <TextBlock Margin="0,0,0,4"
-            Text="frp-bag.top:17219" />
-        <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改：" />
         <TextBlock Margin="0,0,0,4"
             Text="生物破坏已开" />

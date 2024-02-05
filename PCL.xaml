@@ -60,9 +60,9 @@
 <local:MyCard Title="关于我们" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="进入主群|693856047" EventType="打开网页" EventData="https://qm.qq.com/cgi-bin/qm/qr?k=S3ck-wxAjDljJr8n3tnSHEdEvZs6zeb7&jump_from=webapi&authKey=e101+svoRLxBk8O4RrEGqAnvW/DWZmsOidAfGu0QxawGHvkSlxyN07DyQ3hijSQw" />
+            Text="进入主群|693856047" EventType="打开网页" EventData="https://qm.qq.com/cgi-bin/qm/qr?k=S3ck-wxAjDljJr8n3tnSHEdEvZs6zeb7" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="进入闲聊群|895702997" EventType="打开网页" EventData="https://qm.qq.com/cgi-bin/qm/qr?k=xb-LxJEf7yGYHh_IQsP6p4pO1Mxpl0Vf&jump_from=webapi&authKey=CmVomIcAnKKe51ikFszfkL3JpcF0T+eTP+WeWZpF8+KdK1StjM5OaWTStDNtNTp3" />
+            Text="进入闲聊群|895702997" EventType="打开网页" EventData="https://qm.qq.com/cgi-bin/qm/qr?k=xb-LxJEf7yGYHh_IQsP6p4pO1Mxpl0Vf" />
             <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器资源包新构建库" EventType="打开网页" EventData="https://github.com/MC-Schale-Server/Resource-packs" />
     </StackPanel>

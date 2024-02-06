@@ -71,7 +71,7 @@ body
 /* start navigation */
 .navbar-default
   {
-    background: #FFFFFF;
+    background: #b1b1b1;
     border: none;
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
     margin: 0 !important;
@@ -97,11 +97,11 @@ body
   }
 .navbar-default .navbar-nav li a:hover
   {
-    color: #66AF33;
+    color: #3988f5;
   }
 .navbar-default .navbar-nav > li > a:focus
   {
-    color: #888;
+    color: #5bc1c9;
   }
 .navbar-default .navbar-toggle
     {
@@ -190,7 +190,7 @@ h1 { margin: 0; }
   }
 #home .btn
   {
-    background: #66AF33;
+    background: #3988f5;
     border-radius: 0;
     border: 2px solid transparent;
     color: #FFFFFF;
@@ -205,7 +205,7 @@ h1 { margin: 0; }
 #home .btn:hover
   {
     background: #FFFFFF;
-    color: #66AF33;
+    color: #3988f5;
   }
 #home p
   {

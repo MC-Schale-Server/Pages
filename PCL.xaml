@@ -26,7 +26,7 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="MC-Schale 服务器公告（JE） [02/06修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="MC-Schale 服务器公告（JE） [02/07修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
             Text="服务端版本：Paper1.20.1" />
@@ -54,6 +54,8 @@
             Text="生物破坏开，苦力怕方块破坏关" />
         <TextBlock Margin="0,0,0,4"
             Text="增加了部分物品合成" />
+        <TextBlock Margin="0,0,0,4"
+            Text="掉落物生存时间现在是3分钟" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/Announcement" />
     </StackPanel>

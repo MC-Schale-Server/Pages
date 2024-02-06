@@ -7,7 +7,7 @@
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏" EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP：je.play2.mc-schale.com" />
 <!--     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-        Text="打开 服务器官网" EventType="打开网页" EventData="https://mc-schale-server.github.io/" /> -->
+        Text="打开 服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" /> -->
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
 
@@ -54,6 +54,8 @@
             Text="生物破坏开，苦力怕方块破坏关" />
         <TextBlock Margin="0,0,0,4"
             Text="增加了部分物品合成" />
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/Announcement" />
     </StackPanel>
 </local:MyCard>
 

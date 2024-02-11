@@ -4,8 +4,6 @@
     <StackPanel Margin="25,40,23,15">
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏" EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP：je.play2.mc-schale.com" />
-<!--     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-        Text="打开 服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" /> -->
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
@@ -58,6 +56,8 @@
             Text="进入闲聊群 | 895702997" EventType="打开网页" EventData="https://qm.qq.com/cgi-bin/qm/qr?k=xb-LxJEf7yGYHh_IQsP6p4pO1Mxpl0Vf" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器资源包新构建库" EventType="打开网页" EventData="https://github.com/MC-Schale-Server/Resource-packs" />
+<!--     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+        Text="打开 服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" /> -->
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器资源存储盘" EventType="打开网页" EventData="http://pan.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"

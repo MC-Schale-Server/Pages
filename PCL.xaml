@@ -18,7 +18,7 @@
         <TextBlock Margin="0,0,0,4"
             Text="客户端版本：1.11~1.20.4" />
         <TextBlock Margin="0,0,0,4"
-            Text="正版验证：开启" />
+            Text="服务器验证：正版验证+外置LittleSkin登陆（内测中）" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器IP：" />
         <TextBlock Margin="0,0,0,4"

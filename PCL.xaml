@@ -13,7 +13,7 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="MC-Schale 服务器公告（JE） [02/07修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="MC-Schale 服务器公告（JE） [02/11修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
             Text="服务端版本：Paper1.20.1" />
@@ -24,17 +24,19 @@
         <TextBlock Margin="0,0,0,4"
             Text="服务器IP：" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.play1.mc-schale.com" />
+            Text="je.play1.mc-schale.com[Lcy]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.play2.mc-schale.com" />
+            Text="je.play2.mc-schale.com[Lcy]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.play3.mc-schale.com" />
+            Text="je.play3.mc-schale.com[Lcy]" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器备用IP" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare1.mc-schale.com(此节点常开)" />
+            Text="je.spare1.mc-schale.com(此节点常开)[Lcy]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare2.mc-schale.com(此节点常关)" />
+            Text="je.spare2.mc-schale.com(此节点常关)[Lcy]" />
+        <TextBlock Margin="0,0,0,4"
+            Text="je.spare3.mc-schale.com(此节点常开)[MSL]" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改：" />
         <TextBlock Margin="0,0,0,4"

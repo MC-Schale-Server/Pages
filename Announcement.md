@@ -1,4 +1,4 @@
-### MC-Schale 服务器公告 [02/07修]
+### MC-Schale 服务器公告 [02/11修]
 
 服务端是Java版1.20.1的Paper端，
 
@@ -16,17 +16,19 @@ PCL2主页文件获取：
 
 Java版IP：
 
->je.play1.mc-schale.com
+>je.play1.mc-schale.com[Lcy]
 
->je.play2.mc-schale.com
+>je.play2.mc-schale.com[Lcy]
 
->je.play3.mc-schale.com
+>je.play3.mc-schale.com[Lcy]
 
 Java版备用节点：
 
->je.spare1.mc-schale.com   （此节点常开）
+>je.spare1.mc-schale.com（此节点常开）[Lcy]
 
->je.spare2.mc-schale.com   （此节点非意外保持常关）
+>je.spare2.mc-schale.com（此节点非意外保持常关）[Lcy]
+
+>je.spare2.mc-schale.com（此节点常开）[MSL]
 
 Tips：
 

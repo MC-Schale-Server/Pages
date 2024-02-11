@@ -28,7 +28,7 @@ Java版备用节点：
 
 >je.spare2.mc-schale.com（此节点非意外保持常关）[Lcy]
 
->je.spare2.mc-schale.com（此节点常开）[MSL]
+>je.spare3.mc-schale.com（此节点常开）[MSL]
 
 Tips：
 

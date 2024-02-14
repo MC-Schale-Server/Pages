@@ -1,4 +1,4 @@
-### MC-Schale 服务器公告(JE) [02/12修]
+### MC-Schale 服务器公告(JE) [02/15修]
 
 服务端是Java版1.20.1的Paper端，
 

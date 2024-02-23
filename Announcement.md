@@ -1,12 +1,14 @@
-### MC-Schale 服务器公告(JE) [02/19修]
+### MC-Schale 服务器公告 [02/23修]
 
 服务端是Java版1.20.1的purpur端，
 
 (刷沙特性保留修改端)
 
-验证采用正版验证+外置LittleSkin登(当前小范围公测中)
+Java版验证采用正版验证+外置LittleSkin登陆(当前小范围公测中)
 
-支持JE1.11-1.20.4
+基岩版验证采用正版验证(JE正版账号)
+
+支持JE1.11 - 1.20.4，BE1.20.40 - 1.20.60
 
 PCL2主页文件获取：
 
@@ -16,7 +18,7 @@ PCL2主页文件获取：
 
 >https://www.mc-schale.com/PCL.xaml
 
-Java版IP：
+Java版IP:
 
 >je.play1.mc-schale.com[Lcy]
 
@@ -28,13 +30,29 @@ Java版IP：
 
 >je.play5.mc-schale.com[ME]
 
-Java版备用节点：
+Java版备用节点:
 
->je.spare1.mc-schale.com (此节点常开) [Lcy]
+>je.spare1.mc-schale.com (常开) [Lcy]
 
->je.spare2.mc-schale.com (此节点非意外保持常关) [Lcy]
+>je.spare2.mc-schale.com (时长开放) [TP转发]
 
->je.spare3.mc-schale.com (此节点常开) [MSL]
+>je.spare3.mc-schale.com (常开) [MSL]
+
+基岩版IP:
+
+>be.play1.mc-schale.com（此IP端口37729）[Lcy]
+
+>be.play2.mc-schale.com（此IP端口62503）[Lcy]
+
+>be.play3.mc-schale.com（此IP端口17865）[ME]
+
+基岩版版备用节点：
+
+>be.spare1.mc-schale.com（此IP端口17773，常开）[ME]
+
+>be.spare2.mc-schale.com（此IP端口38097，时长开放）[TP转发]
+
+>be.spare3.mc-schale.com（此IP端口10024，常开）[Lcy]
 
 Tips：
 

@@ -54,6 +54,22 @@ Java版备用节点:
 
 >be.spare3.mc-schale.com（此IP端口10024，常开）[Lcy]
 
+基岩版IP:
+
+>be.play1.mc-schale.com（此IP端口37729）[Lcy]
+
+>be.play2.mc-schale.com（此IP端口62503）[Lcy]
+
+>be.play3.mc-schale.com（此IP端口17865）[ME]
+
+基岩版版备用节点：
+
+>be.spare1.mc-schale.com（此IP端口17773，常开）[ME]
+
+>be.spare2.mc-schale.com（此IP端口38097，时长开放）[TP转发]
+
+>be.spare3.mc-schale.com（此IP端口10024，常开）[Lcy]
+
 Tips：
 
 使用较低版本的MC可能导致错误，

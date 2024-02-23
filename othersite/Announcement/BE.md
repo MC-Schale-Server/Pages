@@ -6,23 +6,23 @@
 
 基岩版验证采用正版验证(JE正版账号)
 
-支持BE1.20.40 - 1.20.60
+支持 BE1.20.40 - 1.20.60
 
 ## 基岩版IP:
 
->be.play1.mc-schale.com（此IP端口37729）[Lcy]
+>be.play1.mc-schale.com(此IP端口37729) [Lcy]
 
->be.play2.mc-schale.com（此IP端口62503）[Lcy]
+>be.play2.mc-schale.com(此IP端口62503) [Lcy]
 
->be.play3.mc-schale.com（此IP端口17865）[ME]
+>be.play3.mc-schale.com(此IP端口17865) [ME]
 
 ## 基岩版版备用节点：
 
->be.spare1.mc-schale.com（此IP端口17773，常开）[ME]
+>be.spare1.mc-schale.com(此IP端口17773，常开) [ME]
 
->be.spare2.mc-schale.com（此IP端口38097，时长开放）[TP转发]
+>be.spare2.mc-schale.com(此IP端口38097，时长开放) [TP转发]
 
->be.spare3.mc-schale.com（此IP端口10024，常开）[Lcy]
+>be.spare3.mc-schale.com(此IP端口10024，常开) [Lcy]
 
 ## Tips：
 

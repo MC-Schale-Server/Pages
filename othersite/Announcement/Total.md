@@ -8,7 +8,7 @@ Java版验证采用正版验证+外置LittleSkin登陆(当前小范围公测中)
 
 基岩版验证采用正版验证(JE正版账号)
 
-支持JE1.11 - 1.20.4，BE1.20.40 - 1.20.60
+支持 JE1.11 - 1.20.4 , BE1.20.40 - 1.20.60
 
 PCL2主页文件获取：
 
@@ -20,15 +20,15 @@ PCL2主页文件获取：
 
 ## Java版IP:
 
->je.play1.mc-schale.com[Lcy]
+>je.play1.mc-schale.com [Lcy]
 
->je.play2.mc-schale.com[Lcy]
+>je.play2.mc-schale.com [Lcy]
 
->je.play3.mc-schale.com[Lcy]
+>je.play3.mc-schale.com [Lcy]
 
->je.play4.mc-schale.com[ME]
+>je.play4.mc-schale.com [ME]
 
->je.play5.mc-schale.com[ME]
+>je.play5.mc-schale.com [ME]
 
 ## Java版备用节点:
 
@@ -40,35 +40,20 @@ PCL2主页文件获取：
 
 ## 基岩版IP:
 
->be.play1.mc-schale.com（此IP端口37729）[Lcy]
+>be.play1.mc-schale.com(此IP端口37729) [Lcy]
 
->be.play2.mc-schale.com（此IP端口62503）[Lcy]
+>be.play2.mc-schale.com(此IP端口62503) [Lcy]
 
->be.play3.mc-schale.com（此IP端口17865）[ME]
-
-## 基岩版版备用节点：
-
->be.spare1.mc-schale.com（此IP端口17773，常开）[ME]
-
->be.spare2.mc-schale.com（此IP端口38097，时长开放）[TP转发]
-
->be.spare3.mc-schale.com（此IP端口10024，常开）[Lcy]
-
-## 基岩版IP:
-
->be.play1.mc-schale.com（此IP端口37729）[Lcy]
-
->be.play2.mc-schale.com（此IP端口62503）[Lcy]
-
->be.play3.mc-schale.com（此IP端口17865）[ME]
+>be.play3.mc-schale.com(此IP端口17865) [ME]
 
 ## 基岩版版备用节点：
 
->be.spare1.mc-schale.com（此IP端口17773，常开）[ME]
+>be.spare1.mc-schale.com(此IP端口17773，常开) [ME]
 
->be.spare2.mc-schale.com（此IP端口38097，时长开放）[TP转发]
+>be.spare2.mc-schale.com(此IP端口38097，时长开放) [TP转发]
 
->be.spare3.mc-schale.com（此IP端口10024，常开）[Lcy]
+>be.spare3.mc-schale.com(此IP端口10024，常开) [Lcy]
+
 
 ## Tips：
 

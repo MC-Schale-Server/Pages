@@ -6,7 +6,7 @@
 
 Java版验证采用正版验证+外置LittleSkin登陆(当前小范围公测中)
 
-支持JE1.11 - 1.20.4
+支持 JE1.11 - 1.20.4
 
 PCL2主页文件获取：
 
@@ -18,21 +18,21 @@ PCL2主页文件获取：
 
 ## Java版IP:
 
->je.play1.mc-schale.com[Lcy]
+>je.play1.mc-schale.com [Lcy]
 
->je.play2.mc-schale.com[Lcy]
+>je.play2.mc-schale.com [Lcy]
 
->je.play3.mc-schale.com[Lcy]
+>je.play3.mc-schale.com [Lcy]
 
->je.play4.mc-schale.com[ME]
+>je.play4.mc-schale.com [ME]
 
->je.play5.mc-schale.com[ME]
+>je.play5.mc-schale.com [ME]
 
 ## Java版备用节点:
 
 >je.spare1.mc-schale.com (常开) [Lcy]
 
->je.spare2.mc-schale.com (时长开放 [Lcy]
+>je.spare2.mc-schale.com (时长开放) [TP转发]
 
 >je.spare3.mc-schale.com (常开) [MSL]
 

@@ -1,4 +1,4 @@
-### MC-Schale 服务器公告(JE) [02/23修]
+# MC-Schale 服务器公告(JE) [02/23修]
 
 服务端是Java版1.20.1的purpur端，
 
@@ -16,7 +16,7 @@ PCL2主页文件获取：
 
 >https://www.mc-schale.com/PCL.xaml
 
-Java版IP:
+## Java版IP:
 
 >je.play1.mc-schale.com[Lcy]
 
@@ -28,7 +28,7 @@ Java版IP:
 
 >je.play5.mc-schale.com[ME]
 
-Java版备用节点:
+## Java版备用节点:
 
 >je.spare1.mc-schale.com (常开) [Lcy]
 
@@ -36,7 +36,7 @@ Java版备用节点:
 
 >je.spare3.mc-schale.com (常开) [MSL]
 
-Tips：
+## Tips：
 
 使用较低版本的MC可能导致错误，
 

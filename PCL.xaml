@@ -34,11 +34,11 @@
         <TextBlock Margin="0,0,0,4"
             Text="服务器备用IP" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare1.mc-schale.com(常开) [Lcy]" />
+            Text="je.spare1.mc-schale.com(此节点常开) [Lcy]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare2.mc-schale.com(时长开放) [TP转发]" />
+            Text="je.spare2.mc-schale.com(此节点常关) [Lcy]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare3.mc-schale.com(常开) [MSL]" />
+            Text="je.spare3.mc-schale.com(此节点常开) [MSL]" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改：" />
         <TextBlock Margin="0,0,0,4"
@@ -48,7 +48,7 @@
         <TextBlock Margin="0,0,0,4"
             Text="掉落物生存时间现在是3分钟" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/Announcement" />
+            Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/Announcement_JE" />
     </StackPanel>
 </local:MyCard>
 

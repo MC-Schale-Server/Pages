@@ -48,7 +48,7 @@
         <TextBlock Margin="0,0,0,4"
             Text="掉落物生存时间现在是3分钟" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/AnnouncementJE" />
+            Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/Announcement" />
     </StackPanel>
 </local:MyCard>
 

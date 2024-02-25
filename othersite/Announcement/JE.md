@@ -34,8 +34,6 @@ PCL2主页文件获取：
 
 >je.spare2.mc-schale.com (时长开放) [TP转发]
 
->je.spare3.mc-schale.com (常开) [MSL]
-
 ## Tips：
 
 使用较低版本的MC可能导致错误，

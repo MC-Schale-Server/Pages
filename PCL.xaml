@@ -37,8 +37,8 @@
             Text="je.spare1.mc-schale.com(此节点常开) [Lcy]" />
         <TextBlock Margin="0,0,0,4"
             Text="je.spare2.mc-schale.com(此节点常关) [Lcy]" />
-        <TextBlock Margin="0,0,0,4"
-            Text="je.spare3.mc-schale.com(此节点常开) [MSL]" />
+<!--         <TextBlock Margin="0,0,0,4"
+            Text="je.spare3.mc-schale.com(此节点常开) [MSL]" /> -->
         <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改：" />
         <TextBlock Margin="0,0,0,4"

@@ -36,8 +36,6 @@ PCL2主页文件获取：
 
 >je.spare2.mc-schale.com (时长开放) [TP转发]
 
->je.spare3.mc-schale.com (常开) [MSL]
-
 ## 基岩版IP:
 
 >be.play1.mc-schale.com(此IP端口37729) [Lcy]

@@ -11,7 +11,7 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="MC-Schale 服务器公告（JE） [02/25修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="MC-Schale 服务器公告(JE) [02/25修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
             Text="服务端版本：Purpur1.20.1" />

@@ -1,8 +1,6 @@
 # MC-Schale 服务器公告(JE) [02/25修]
 
-服务端是Java版1.20.1的purpur端，
-
-(刷沙特性保留修改端)
+服务端是Java版1.20.1的purpur端
 
 Java版验证采用正版验证+外置LittleSkin登陆(当前小范围公测中)
 

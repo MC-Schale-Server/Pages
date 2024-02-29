@@ -1,4 +1,4 @@
-# MC-Schale 服务器公告 [02/25修]
+# MC-Schale 服务器公告 [02/29修]
 
 服务端是Java版1.20.1的purpur端
 
@@ -42,7 +42,7 @@ PCL2主页文件获取：
 
 >be.play3.mc-schale.com(此IP端口17865) [ME]
 
-## 基岩版版备用节点：
+## 基岩版备用节点：
 
 >be.spare1.mc-schale.com(此IP端口17773，常开) [ME]
 

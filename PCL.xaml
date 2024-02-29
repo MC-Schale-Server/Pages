@@ -18,7 +18,7 @@
         <TextBlock Margin="0,0,0,4"
             Text="客户端版本：1.11~1.20.4" />
         <TextBlock Margin="0,0,0,4"
-            Text="服务器验证：正版验证+外置LittleSkin登陆(当前小范围公测中)" />
+            Text="服务器验证：正版验证+外置LittleSkin登陆(需要审核)" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器IP：" />
         <TextBlock Margin="0,0,0,4"
@@ -63,7 +63,9 @@
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器资源包新构建库" EventType="打开网页" EventData="https://github.com/MC-Schale-Server/Resource-packs" />
 <!--     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-        Text="打开 服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" /> -->
+        Text="打开服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" /> -->
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="打开服务器网站索引页" EventType="打开网页" EventData="https://www.mc-schale.com/othersite/index" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器资源存储盘" EventType="打开网页" EventData="http://pan.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"

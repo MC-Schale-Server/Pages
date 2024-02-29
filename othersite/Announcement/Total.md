@@ -2,7 +2,7 @@
 
 服务端是Java版1.20.1的purpur端
 
-Java版验证采用正版验证+外置LittleSkin登陆(当前小范围公测中)
+Java版验证采用正版验证+外置LittleSkin登陆(需要审核)
 
 基岩版验证采用正版验证(JE正版账号)
 

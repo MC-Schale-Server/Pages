@@ -64,7 +64,7 @@
             EventData="https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-JavaEdition-newest-build.zip" />
         <TextBlock Margin="0,0,0,4"
             Text="如果需要自定义下载内容，您可以点击下面的按钮打开我们的资源包构建库" />
-        <local:MarginyButton Margin="0,5,0,0" Width="250" Height="35"
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器资源包构建库" EventType="打开网页"
             EventData="https://github.com/MC-Schale-Server/Resource-packs" />
     </StackPanel>
@@ -81,13 +81,10 @@
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="打开服务器状态监测页" EventType="打开网页"
+            EventData="http://status.mc-schale.com/" />
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器网站索引页" EventType="打开网页"
             EventData="https://www.mc-schale.com/othersite/index" />
-<!--         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器资源存储盘" EventType="打开网页"
-            EventData="http://pan.mc-schale.com/" />
-        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器状态监测页" EventType="打开网页"
-            EventData="http://status.mc-schale.com/" /> -->
     </StackPanel>
 </local:MyCard>

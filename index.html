@@ -123,8 +123,6 @@
 		audio.addEventListener("ended", function() {
 			this.currentTime = 0;
 			this.play();
-			// 播放结束后确保按钮背景为暂停状态的图片
-			playButton.style.backgroundImage = `url("${pauseImage}")`;
 		});
 
 	</script>

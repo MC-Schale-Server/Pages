@@ -3,11 +3,12 @@
 <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-        Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏" EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP：je.play2.mc-schale.com" />
+        Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏"
+        EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP：je.play2.mc-schale.com" />
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
-            Text="你知道吗：{hint}" />
+        Text="你知道吗：{hint}" />
     </StackPanel>
 </local:MyCard>
 
@@ -48,7 +49,24 @@
         <TextBlock Margin="0,0,0,4"
             Text="掉落物生存时间现在是3分钟" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="如果需要复制IP，请点这里" EventType="打开网页" EventData="https://www.mc-schale.com/othersite/Announcement/JE" />
+            Text="如果需要复制IP，请点这里" EventType="打开网页"
+            EventData="https://www.mc-schale.com/othersite/Announcement/JE" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="关于服务器资源包" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="下载最新发行版资源包" EventType="打开网页"
+            EventData="https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip" />
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="下载最新构建版资源包" EventType="打开网页"
+            EventData="https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-JavaEdition-newest-build.zip" />
+        <TextBlock Margin="0,0,0,4"
+            Text="如果需要自定义下载内容，您可以点击下面的按钮打开我们的资源包构建库" />
+        <local:MarginyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="打开服务器资源包构建库" EventType="打开网页"
+            EventData="https://github.com/MC-Schale-Server/Resource-packs" />
     </StackPanel>
 </local:MyCard>
 
@@ -61,14 +79,15 @@
             Text="进入闲聊群 | 895702997" EventType="打开网页"
             EventData="https://qm.qq.com/cgi-bin/qm/qr?k=Vns8dBTRReEbYy9kU04rfOQospCEn_BO&amp;jump_from=webapi&amp;authKey=JbgZ+nxqV3artF737VjSUTBWvufGtYMvhZTf46gVpVrHGBXSfZ69o8An37oQm0vr" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器资源包新构建库" EventType="打开网页" EventData="https://github.com/MC-Schale-Server/Resource-packs" />
-     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-        Text="打开服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" />
+            Text="打开服务器官网" EventType="打开网页" EventData="https://www.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器网站索引页" EventType="打开网页" EventData="https://www.mc-schale.com/othersite/index" />
+            Text="打开服务器网站索引页" EventType="打开网页"
+            EventData="https://www.mc-schale.com/othersite/index" />
+<!--         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="打开服务器资源存储盘" EventType="打开网页"
+            EventData="http://pan.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器资源存储盘" EventType="打开网页" EventData="http://pan.mc-schale.com/" />
-        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器状态监测页" EventType="打开网页" EventData="http://status.mc-schale.com/" />
+            Text="打开服务器状态监测页" EventType="打开网页"
+            EventData="http://status.mc-schale.com/" /> -->
     </StackPanel>
 </local:MyCard>

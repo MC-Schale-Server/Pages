@@ -1,5 +1,9 @@
 # 目录
 
+## 服务器官网
+
+[服务器官网](https://www.mc-schale.com/)
+
 ## 服务器公告
 
 [全版本公告](https://www.mc-schale.com/othersite/Announcement/Total)

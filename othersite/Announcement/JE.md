@@ -1,4 +1,4 @@
-# MC-Schale 服务器公告(JE) [02/29修]
+# MC-Schale 服务器公告(JE) [03/02修]
 
 服务端是Java版1.20.1的purpur端
 
@@ -30,7 +30,9 @@ PCL2主页文件获取：
 
 >je.spare1.mc-schale.com (常开) [Lcy]
 
->je.spare2.mc-schale.com (时长开放) [TP转发]
+>je.spare2.mc-schale.com (时长开放) [TP转发(S)]
+
+>je.spare3.mc-schale.com (时长开启) [TP转发(M)]
 
 ## Tips：
 
@@ -45,3 +47,5 @@ PCL2主页文件获取：
 增加了部分物品合成
 
 掉落物生存时间现在是3分钟
+
+允许无限与经验修补应用于同一把弓上

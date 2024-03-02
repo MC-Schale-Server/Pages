@@ -1,4 +1,4 @@
-# MC-Schale 服务器公告(BE) [02/29修]
+# MC-Schale 服务器公告(BE) [03/02修]
 
 服务端是Java版1.20.1的purpur端
 
@@ -10,19 +10,19 @@
 
 ## 基岩版IP:
 
->be.play1.mc-schale.com(此IP端口37729) [Lcy]
+>be.play1.mc-schale.com (此IP端口37729) [Lcy]
 
->be.play2.mc-schale.com(此IP端口62503) [Lcy]
+>be.play2.mc-schale.com (此IP端口62503) [Lcy]
 
->be.play3.mc-schale.com(此IP端口17865) [ME]
+>be.play3.mc-schale.com (此IP端口17865) [ME]
 
 ## 基岩版版备用节点：
 
->be.spare1.mc-schale.com(此IP端口17773，常开) [ME]
+>be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
 
->be.spare2.mc-schale.com(此IP端口38097，时长开放) [TP转发]
+>be.spare2.mc-schale.com (此IP端口38097，时长开放) [TP转发(S)]
 
->be.spare3.mc-schale.com(此IP端口10024，常开) [Lcy]
+>be.spare3.mc-schale.com (此IP端口10024，常开) [Lcy]
 
 ## Tips：
 
@@ -37,3 +37,5 @@
 增加了部分物品合成
 
 掉落物生存时间现在是3分钟
+
+允许无限与经验修补应用于同一把弓上

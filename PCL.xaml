@@ -37,9 +37,9 @@
         <TextBlock Margin="0,0,0,4"
             Text="je.spare1.mc-schale.com (常开) [Lcy]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare2.mc-schale.com (时长开启) [TP转发(S)]" />
+            Text="je.spare2.mc-schale.com (时长开启) [TP转发(转发类型S)]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare3.mc-schale.com (时长开启) [TP转发(M)]" />
+            Text="je.spare3.mc-schale.com (时长开启) [TP转发(转发类型M)]" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改：" />
         <TextBlock Margin="0,0,0,4"

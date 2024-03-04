@@ -30,9 +30,9 @@ PCL2主页文件获取：
 
 >je.spare1.mc-schale.com (常开) [Lcy]
 
->je.spare2.mc-schale.com (时长开放) [TP转发(S)]
+>je.spare2.mc-schale.com (时长开放) [TP转发(转发类型S)]
 
->je.spare3.mc-schale.com (时长开启) [TP转发(M)]
+>je.spare3.mc-schale.com (时长开启) [TP转发(转发类型M)]
 
 ## Tips：
 

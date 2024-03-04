@@ -20,7 +20,7 @@
 
 >be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
 
->be.spare2.mc-schale.com (此IP端口38097，时长开放) [TP转发(S)]
+>be.spare2.mc-schale.com (此IP端口38097，时长开放) [TP转发(转发类型S)]
 
 >be.spare3.mc-schale.com (此IP端口10024，常开) [Lcy]
 

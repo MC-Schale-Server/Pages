@@ -1,5 +1,16 @@
 <local:MyHint Margin="0,0,0,15" Text="欢迎来到 MC-Schale 服务器!" IsWarn="False" />
 
+<local:MyCard Title="紧急通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+    <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
+        Text="计划维护[03/05/2024]
+              由于服务器数据备份盘出现掉盘问题，
+              计划于3月6日（星期三）晚上7时30分起进行临时维护，
+              届时，服务器将临时处于服务中断状态。
+              如有不便，敬请谅解，感谢大家的理解和支持！" />
+    </StackPanel>
+</local:MyCard>
+
 <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"

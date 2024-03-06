@@ -4,14 +4,16 @@
     <StackPanel Margin="25,40,23,15">
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
         Text="计划维护[03/05/2024]" />
-    <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
+    <TextBlock Margin="10,6,0,5"
+        Text="" />
+    <TextBlock Margin="10,6,0,5"
         Text="由于服务器数据备份盘出现掉盘问题，" />
-    <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
+    <TextBlock Margin="10,6,0,5"
         Text="计划于3月6日（星期三）晚上7时30分起进行临时维护，" />
-    <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
+    <TextBlock Margin="10,6,0,5"
         Text="届时，服务器将临时处于服务中断状态。" />
-    <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
-        Text="如有不便，敬请谅解，感谢大家的理解和支持！" />
+    <TextBlock Margin="10,6,0,5"
+        Text="如有不便，敬请谅解，感谢大家的理解与支持！" />
     </StackPanel>
 </local:MyCard>
 

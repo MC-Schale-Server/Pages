@@ -1,6 +1,6 @@
 <local:MyHint Margin="0,0,0,15" Text="欢迎来到 MC-Schale 服务器!" IsWarn="False" />
 
-<local:MyCard Title="紧急通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<!-- <local:MyCard Title="紧急通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
         Text="计划维护[03/05/2024]" />
@@ -15,7 +15,7 @@
     <TextBlock Margin="10,6,0,5"
         Text="如有不便，敬请谅解，感谢大家的理解与支持！" />
     </StackPanel>
-</local:MyCard>
+</local:MyCard> -->
 
 <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">

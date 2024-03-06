@@ -21,7 +21,7 @@
     <StackPanel Margin="25,40,23,15">
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="启动 1.20.1 并进入 MC-Schale 服务器" EventType="启动游戏"
-        EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP：je.play2.mc-schale.com" />
+        EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP:je.play2.mc-schale.com" />
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
@@ -32,13 +32,13 @@
 <local:MyCard Title="MC-Schale 服务器公告(JE) [03/02修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
-            Text="服务端版本：Purpur1.20.1" />
+            Text="服务端版本:Purpur1.20.1" />
         <TextBlock Margin="0,0,0,4"
-            Text="客户端版本：1.11~1.20.4" />
+            Text="客户端版本:1.11~1.20.4" />
         <TextBlock Margin="0,0,0,4"
-            Text="服务器验证：正版验证+外置LittleSkin登陆(需要审核)" />
+            Text="服务器验证:正版验证+外置LittleSkin登陆(需要审核)" />
         <TextBlock Margin="0,0,0,4"
-            Text="服务器IP：" />
+            Text="服务器IP:" />
         <TextBlock Margin="0,0,0,4"
             Text="je.play1.mc-schale.com [Lcy]" />
         <TextBlock Margin="0,0,0,4"
@@ -50,7 +50,7 @@
         <TextBlock Margin="0,0,0,4"
             Text="je.play5.mc-schale.com [ME]" />
         <TextBlock Margin="0,0,0,4"
-            Text="服务器备用IP" />
+            Text="服务器备用IP:" />
         <TextBlock Margin="0,0,0,4"
             Text="je.spare1.mc-schale.com (常开) [Lcy]" />
         <TextBlock Margin="0,0,0,4"
@@ -58,7 +58,7 @@
         <TextBlock Margin="0,0,0,4"
             Text="je.spare3.mc-schale.com (时长开启) [TP转发(转发类型M)]" />
         <TextBlock Margin="0,0,0,4"
-            Text="服务器规则更改：" />
+            Text="服务器规则更改:" />
         <TextBlock Margin="0,0,0,4"
             Text="生物破坏开，苦力怕方块破坏关" />
         <TextBlock Margin="0,0,0,4"

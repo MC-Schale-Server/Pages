@@ -77,7 +77,7 @@
     <StackPanel Margin="25,40,23,15">
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="下载最新发行版资源包" EventType="打开网页"
-            EventData="https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip" />
+            EventData="https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.10.0/Resource-Pack_JE_Server1_r1.10.0.zip" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="下载最新构建版资源包" EventType="打开网页"
             EventData="https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-JavaEdition-newest-build.zip" />

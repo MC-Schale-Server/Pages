@@ -29,7 +29,7 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="MC-Schale 服务器公告(JE) [03/02修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="MC-Schale 服务器公告(JE) [03/17修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
             Text="服务端版本:Purpur1.20.1" />
@@ -48,15 +48,15 @@
         <TextBlock Margin="0,0,0,4"
             Text="je.play4.mc-schale.com [ME]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.play5.mc-schale.com [ME]" />
+            Text="je.play5.mc-schale.com [MSL]" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器备用IP:" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare1.mc-schale.com (常开) [Lcy]" />
+            Text="je.spare1.mc-schale.com (常开) [ME]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare2.mc-schale.com (时长开启) [TP转发(转发类型S)]" />
+            Text="je.spare2.mc-schale.com (时长开放) [TP转发(转发类型S)]" />
         <TextBlock Margin="0,0,0,4"
-            Text="je.spare3.mc-schale.com (时长开启) [TP转发(转发类型M)]" />
+            Text="je.spare3.mc-schale.com (时长开放) [TP转发(转发类型M)]" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改:" />
         <TextBlock Margin="0,0,0,4"

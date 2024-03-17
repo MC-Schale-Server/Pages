@@ -1,4 +1,4 @@
-# MC-Schale 服务器公告 [03/02修]
+# MC-Schale 服务器公告 [03/17修]
 
 服务端是Java版1.20.1的purpur端
 
@@ -26,15 +26,15 @@ PCL2主页文件获取：
 
 >je.play4.mc-schale.com [ME]
 
->je.play5.mc-schale.com [ME]
+>je.play5.mc-schale.com [MSL]
 
 ## Java版备用节点:
 
->je.spare1.mc-schale.com (常开) [Lcy]
+>je.spare1.mc-schale.com (常开) [ME]
 
 >je.spare2.mc-schale.com (时长开放) [TP转发(转发类型S)]
 
->je.spare3.mc-schale.com (时长开启) [TP转发(转发类型M)]
+>je.spare3.mc-schale.com (时长开放) [TP转发(转发类型M)]
 
 ## 基岩版IP:
 

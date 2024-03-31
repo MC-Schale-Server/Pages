@@ -25,3 +25,5 @@
 [服务器状态监测页](http://status.mc-schale.com/)
 
 [服务器资源包构建库](https://github.com/MC-Schale-Server/Resource-packs)
+
+[服务器地铁更新日志](https://www.mc-schale.com/othersite/Metro/Logs)

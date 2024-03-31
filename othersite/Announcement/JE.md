@@ -1,4 +1,4 @@
-# MC-Schale 服务器公告(JE) [03/17修]
+# MC-Schale 服务器公告(JE) [2024/03/31修]
 
 服务端是Java版1.20.1的purpur端
 

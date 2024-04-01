@@ -1,8 +1,8 @@
 # MC-Schale 服务器
 
-### **我们正着手制作中**
-
 打开[服务器官网](https://www.mc-schale.com/)
+
+打开[服务器索引页](https://www.mc-schale.com/othersite/index)
 
 PCL2主页文件地址：
 

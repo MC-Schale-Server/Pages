@@ -2,7 +2,7 @@
 
 打开[服务器官网](https://www.mc-schale.com/)
 
-打开[服务器索引页](https://www.mc-schale.com/othersite/index)
+打开[服务器索引页](https://www.mc-schale.com/othersites/index)
 
 PCL2主页文件地址：
 

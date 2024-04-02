@@ -1,4 +1,4 @@
-# MC-Schale 服务器公告(BE) [2024/03/31修]
+# MC-Schale 服务器公告(BE) [2024/04/02修]
 
 服务端是Java版1.20.1的purpur端
 
@@ -6,17 +6,17 @@
 
 注意：BE无法使用外置登陆系统进行登陆，如需外置，请转至JE进行游戏
 
-支持 BE1.20.40 - 1.20.70
+支持 BE1.20.40 - 1.20.73
 
 ## 基岩版IP:
 
->be.play1.mc-schale.com (此IP端口37729) [Lcy]
+>be.play1.mc-schale.com (此IP端口10024) [Lcy]
 
->be.play2.mc-schale.com (此IP端口62503) [Lcy]
+>be.play2.mc-schale.com (此IP端口12288) [Lcy]
 
 >be.play3.mc-schale.com (此IP端口17865) [ME]
 
-## 基岩版版备用节点：
+## 基岩版备用节点：
 
 >be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
 

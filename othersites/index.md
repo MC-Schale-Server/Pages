@@ -6,11 +6,11 @@
 
 ## 服务器公告
 
-[全版本公告](https://www.mc-schale.com/othersite/Announcement/Total)
+[全版本公告](https://www.mc-schale.com/othersites/Announcement/Total)
 
-[Java版公告](https://www.mc-schale.com/othersite/Announcement/JE)
+[Java版公告](https://www.mc-schale.com/othersites/Announcement/JE)
 
-[基岩版公告](https://www.mc-schale.com/othersite/Announcement/BE)
+[基岩版公告](https://www.mc-schale.com/othersites/Announcement/BE)
 
 ## QQ群进入链接
 
@@ -26,4 +26,4 @@
 
 [服务器资源包构建库](https://github.com/MC-Schale-Server/Resource-packs)
 
-[服务器地铁更新日志](https://www.mc-schale.com/othersite/Metro/Logs)
+[服务器地铁更新日志](https://www.mc-schale.com/othersites/Metro/Logs)

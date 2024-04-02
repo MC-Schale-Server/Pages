@@ -29,7 +29,7 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="MC-Schale 服务器公告(JE) [2024/03/31修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="MC-Schale 服务器公告(JE) [2024/04/02修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
             Text="服务端版本:Purpur1.20.1" />
@@ -69,7 +69,7 @@
             Text="允许无限与经验修补应用于同一把弓上" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="如果需要复制IP，请点这里" EventType="打开网页"
-            EventData="https://www.mc-schale.com/othersite/Announcement/JE" />
+            EventData="https://www.mc-schale.com/othersites/Announcement/JE" />
     </StackPanel>
 </local:MyCard>
 
@@ -104,9 +104,9 @@
             EventData="http://status.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器网站索引页" EventType="打开网页"
-            EventData="https://www.mc-schale.com/othersite/index" />
+            EventData="https://www.mc-schale.com/othersites/index" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="服务器地铁更新日志" EventType="打开网页"
-            EventData="https://www.mc-schale.com/othersite/Metro/Logs" />
+            EventData="https://www.mc-schale.com/othersites/Metro/Logs" />
     </StackPanel>
 </local:MyCard>

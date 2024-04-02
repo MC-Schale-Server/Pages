@@ -16,7 +16,7 @@
 
 >be.play3.mc-schale.com (此IP端口17865) [ME]
 
-## 基岩版版备用节点：
+## 基岩版备用节点：
 
 >be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
 

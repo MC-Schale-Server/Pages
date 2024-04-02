@@ -10,9 +10,9 @@
 
 ## 基岩版IP:
 
->be.play1.mc-schale.com (此IP端口37729) [Lcy]
+>be.play1.mc-schale.com (此IP端口10024) [Lcy]
 
->be.play2.mc-schale.com (此IP端口62503) [Lcy]
+>be.play2.mc-schale.com (此IP端口12288) [Lcy]
 
 >be.play3.mc-schale.com (此IP端口17865) [ME]
 

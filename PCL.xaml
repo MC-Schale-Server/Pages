@@ -69,7 +69,7 @@
             Text="允许无限与经验修补应用于同一把弓上" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="如果需要复制IP，请点这里" EventType="打开网页"
-            EventData="https://www.mc-schale.com/othersite/Announcement/JE" />
+            EventData="https://www.mc-schale.com/othersites/Announcement/JE" />
     </StackPanel>
 </local:MyCard>
 
@@ -104,9 +104,9 @@
             EventData="http://status.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器网站索引页" EventType="打开网页"
-            EventData="https://www.mc-schale.com/othersite/index" />
+            EventData="https://www.mc-schale.com/othersites/index" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="服务器地铁更新日志" EventType="打开网页"
-            EventData="https://www.mc-schale.com/othersite/Metro/Logs" />
+            EventData="https://www.mc-schale.com/othersites/Metro/Logs" />
     </StackPanel>
 </local:MyCard>

@@ -16,7 +16,7 @@
 ### 2024/04/03
 #### 1号线
  - 合并了 `雪山站` 与 `黑森林站` 为 `雪山 · 黑森林站` ， 英文站名为 `Snow Mountain · Dark Oak Forest` 
- - 修改了 `圣三一综合学园站` 的站名为 `圣三一综合学院西` ，英文站名修改为 `West Trinity General School` 
+ - 修改了 `圣三一综合学园站` 的站名为 `圣三一综合学园西` ，英文站名修改为 `West Trinity General School` 
  - 修改了 `城堡（末地门）站` 的站名为 `城堡 · 末地传送门` ，英文站名修改为 `The Castle · End Portal` 
  - 修改了 `丛林站` 的英文站名为 `The Jungle` 
  - 修改了 `小黄-X站` 的站名为 `小黄镇` ，英文站名修改为 `Xiaohuang Town` 

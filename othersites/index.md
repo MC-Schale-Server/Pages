@@ -6,6 +6,8 @@
 
 ## 服务器公告
 
+[MC-Schale 服务器守则](https://www.mc-schale.com/othersites/Group-Rules/Main-Rule)
+
 [全版本公告](https://www.mc-schale.com/othersites/Announcement/Total)
 
 [Java版公告](https://www.mc-schale.com/othersites/Announcement/JE)

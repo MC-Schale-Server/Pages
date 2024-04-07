@@ -24,6 +24,9 @@
         EventData="1.20.1|je.play2.mc-schale.com" ToolTip="服务器 IP:je.play2.mc-schale.com" />
     <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
         Text="切换到启动器设置" EventType="切换页面" EventData="3|2"/>
+    <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+        Text="MC-Schale 服务器守则" EventType="打开网页"
+        EventData="https://www.mc-schale.com/othersites/Group-Rules/Main-Rule" />
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
         Text="你知道吗：{hint}" />
     </StackPanel>

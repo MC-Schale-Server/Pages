@@ -72,4 +72,4 @@
 
 ……其他规定请等待后续补充，一切解释权归 `MC-Schale服务器` 及 `bdUnion2024工会` 其负责人所有。
 
-![bdUnion2024W.png](Images/bdUnion2024W.png)
+![bdUnion2024W.png](../../image/bdUnion2024W.png)

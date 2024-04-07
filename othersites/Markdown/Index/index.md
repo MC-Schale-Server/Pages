@@ -6,13 +6,13 @@
 
 ## 服务器公告
 
-[MC-Schale 服务器守则](https://www.mc-schale.com/othersites/Group-Rules/Main-Rule)
+[MC-Schale 服务器守则](https://www.mc-schale.com/othersites/Markdown/Group-Rules/Main-Rule)
 
-[全版本公告](https://www.mc-schale.com/othersites/Announcement/Total)
+[全版本公告](https://www.mc-schale.com/othersites/Markdown/Announcement/Total)
 
-[Java版公告](https://www.mc-schale.com/othersites/Announcement/JE)
+[Java版公告](https://www.mc-schale.com/othersites/Markdown/Announcement/JE)
 
-[基岩版公告](https://www.mc-schale.com/othersites/Announcement/BE)
+[基岩版公告](https://www.mc-schale.com/othersites/Markdown/Announcement/BE)
 
 ## QQ群进入链接
 
@@ -22,7 +22,7 @@
 
 ## 其他网站
 
-[服务器赞助记录](https://www.mc-schale.com/othersites/Donate-List/donate)
+[服务器赞助记录](https://www.mc-schale.com/othersites/Markdown/Donate-List/donate)
 
 [服务器数据存储盘](http://pan.mc-schale.com/)
 
@@ -30,4 +30,4 @@
 
 [服务器资源包构建库](https://github.com/MC-Schale-Server/Resource-packs)
 
-[服务器地铁更新日志](https://www.mc-schale.com/othersites/Metro/Logs)
+[服务器地铁更新日志](https://www.mc-schale.com/othersites/Markdown/Metro/Logs)

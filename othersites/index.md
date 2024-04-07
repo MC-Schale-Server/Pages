@@ -22,6 +22,8 @@
 
 ## 其他网站
 
+[服务器赞助记录](https://www.mc-schale.com/othersites/Donate-List/donate)
+
 [服务器数据存储盘](http://pan.mc-schale.com/)
 
 [服务器状态监测页](http://status.mc-schale.com/)

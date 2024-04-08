@@ -1,11 +1,7 @@
 <local:MyHint Margin="0,0,0,15" Text="欢迎来到 MC-Schale 1.20.1生存服务器 !" IsWarn="False" />
 
-<local:MyCard Title="维护通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="周常维护通知[2024/04/08]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
-    <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
-        Text="周常维护通知[2024/04/08]" />
-    <TextBlock Margin="10,6,0,5"
-        Text="" />
     <TextBlock Margin="10,6,0,5"
         Text="此次维护为周常维护(2周/次)" />
     <TextBlock Margin="10,6,0,5"

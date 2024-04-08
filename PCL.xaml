@@ -1,21 +1,23 @@
 <local:MyHint Margin="0,0,0,15" Text="欢迎来到 MC-Schale 服务器 !" IsWarn="False" />
 
-<!-- <local:MyCard Title="紧急通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="维护通知" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
     <TextBlock Margin="10,6,0,5" Foreground="{DynamicResource ColorBrush3}"
-        Text="计划维护[03/05/2024]" />
+        Text="周常维护通知[2024/04/08]" />
     <TextBlock Margin="10,6,0,5"
         Text="" />
     <TextBlock Margin="10,6,0,5"
-        Text="由于服务器数据备份盘出现掉盘问题，" />
+        Text="此次维护为周常维护(2周/次)" />
+    <TextBlock Margin="10,6,0,5">   <TextBlock Margin="10,6,0,5"
+        Text="本次维护开始时间: 2024/04/10 13:00" />
     <TextBlock Margin="10,6,0,5"
-        Text="计划于3月6日（星期三）晚上7时30分起进行临时维护，" />
+        Text="本次维护结束时间: 2024/04/10 14:30" />
     <TextBlock Margin="10,6,0,5"
-        Text="届时，服务器将临时处于服务中断状态。" />
+        Text="届时，服务器将临时处于离线状态" />
     <TextBlock Margin="10,6,0,5"
-        Text="如有不便，敬请谅解，感谢大家的理解与支持！" />
+        Text="请注意避开维护时段。" />
     </StackPanel>
-</local:MyCard> -->
+</local:MyCard>
 
 <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">

@@ -2,7 +2,7 @@
 
 ## 服务器说明
 
-服务端是Java版1.20.1的purpur端
+当前的服务端是Java版1.20.1的purpur端
 
 Java版验证采用正版验证+外置LittleSkin登陆(需要审核)
 

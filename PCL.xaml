@@ -9,7 +9,7 @@
     <TextBlock Margin="10,6,0,5"
         Text="本次维护结束时间: 2024/04/23 16:00" />
     <TextBlock Margin="10,6,0,5"
-	      Text="注意:本次更新可能提前至4月21日半夜" />
+	      Text="注意:本次更新可能提前至4月21日晚上" />
     <TextBlock Margin="10,6,0,5"
         Text="上一次维护开始时间: 2024/04/09 14:50" />
     <TextBlock Margin="10,6,0,5"

@@ -6,7 +6,7 @@
 
 ## 服务器公告
 
-[MC-Schale 服务器守则](https://www.mc-schale.com/othersites/Markdown/Group-Rules/Main-Rule)
+[服务器守则](https://www.mc-schale.com/othersites/Markdown/Group-Rules/Main-Rule)
 
 [全版本公告](https://www.mc-schale.com/othersites/Markdown/Announcement/Total)
 

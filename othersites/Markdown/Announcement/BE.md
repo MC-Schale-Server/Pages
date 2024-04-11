@@ -1,5 +1,7 @@
 # MC-Schale 服务器 公告(BE) [2024/04/07修]
 
+## 服务器说明
+
 服务端是Java版1.20.1的purpur端
 
 基岩版验证采用正版验证(JE正版账号)
@@ -8,7 +10,9 @@
 
 支持 BE1.20.40 - 1.20.73
 
-## 基岩版IP:
+## 服务器IP
+
+### 基岩版IP:
 
 >be.play1.mc-schale.com (此IP端口10024) [Lcy]
 
@@ -16,7 +20,7 @@
 
 >be.play3.mc-schale.com (此IP端口17865) [ME]
 
-## 基岩版备用节点：
+### 基岩版备用节点：
 
 >be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
 

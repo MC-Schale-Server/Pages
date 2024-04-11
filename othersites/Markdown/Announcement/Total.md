@@ -1,5 +1,7 @@
 # MC-Schale 服务器 公告 [2024/04/07修]
 
+## 服务器说明
+
 服务端是Java版1.20.1的purpur端
 
 Java版验证采用正版验证+外置LittleSkin登陆(需要审核)
@@ -16,7 +18,9 @@ PCL2主页文件获取：
 
 >https://www.mc-schale.com/PCL.xaml
 
-## Java版IP:
+## 服务器IP
+
+### Java版IP:
 
 >je.play1.mc-schale.com [Lcy]
 
@@ -28,7 +32,7 @@ PCL2主页文件获取：
 
 >je.play5.mc-schale.com [MSL]
 
-## Java版备用节点:
+### Java版备用节点:
 
 >je.spare1.mc-schale.com (常开) [ME]
 
@@ -36,7 +40,7 @@ PCL2主页文件获取：
 
 >je.spare3.mc-schale.com (时长开放) [TP转发(转发类型M)]
 
-## 基岩版IP:
+### 基岩版IP:
 
 >be.play1.mc-schale.com (此IP端口10024) [Lcy]
 
@@ -44,7 +48,7 @@ PCL2主页文件获取：
 
 >be.play3.mc-schale.com (此IP端口17865) [ME]
 
-## 基岩版备用节点：
+### 基岩版备用节点：
 
 >be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
 

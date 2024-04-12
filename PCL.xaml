@@ -125,7 +125,7 @@
             Text="服务器地铁更新日志" EventType="打开网页"
             EventData="https://www.mc-schale.com/othersites/Markdown/Metro/Logs" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
-            Text="打开服务器网站索引页" EventType="打开网页"
+            Text="打开服务器网站目录索引页" EventType="打开网页"
             EventData="https://www.mc-schale.com/othersites/Markdown/Index/" />
     </StackPanel>
 </local:MyCard>

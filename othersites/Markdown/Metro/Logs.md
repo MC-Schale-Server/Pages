@@ -1,5 +1,7 @@
 # MC-Schale 服务器 千年轨道交通运营组
 
+返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
+
 ## 地铁信息更新日志 [2024/04/13修]
 
 ### 2024/04/13

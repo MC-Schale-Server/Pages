@@ -105,11 +105,11 @@
 		playButton.addEventListener("click", function () {
 			if (audio.paused) {
 				audio.play();
-				// 更改按钮背景为暂停状态的图片
+				// 更改按钮背景为播放状态的图片
 				playButton.style.backgroundImage = `url("${playImage}")`;
 			} else {
 				audio.pause();
-				// 更改按钮背景为播放状态的图片
+				// 更改按钮背景为暂停状态的图片
 				playButton.style.backgroundImage = `url("${pauseImage}")`;
 			}
 		});

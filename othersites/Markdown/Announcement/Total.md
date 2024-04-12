@@ -1,5 +1,7 @@
 # MC-Schale 服务器 公告(全版本) [2024/04/11修]
 
+返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
+
 ## 服务器说明
 
 服务端是Java版1.20.1的purpur端

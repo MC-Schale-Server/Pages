@@ -1,5 +1,7 @@
 # MC-Schale 服务器 守则 第一版 [2024/04/12修]
 
+返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
+
 ## 违反规定者轻则禁言，重则封禁
 
 ## 1 服务器主群群规

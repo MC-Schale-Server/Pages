@@ -1,4 +1,4 @@
-# MC-Schale 服务器 赞助记录 [2024/04/11修]
+# MC-Schale 服务器 赞助记录 [2024/04/15修]
 
 返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
 

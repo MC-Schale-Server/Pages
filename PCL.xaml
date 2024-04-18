@@ -9,7 +9,7 @@
     <TextBlock Margin="10,6,0,5"
         Text="本次维护结束时间: 2024/04/23 16:00" />
     <TextBlock Margin="10,6,0,5"
-	      Text="注意:本次更新可能提前至4月21日晚上" />
+	      Text="注意:本次更新可能提前至04/20或04/21凌晨进行" />
     <TextBlock Margin="10,6,0,5"
         Text="上一次维护开始时间: 2024/04/17 15:15" />
     <TextBlock Margin="10,6,0,5"
@@ -67,6 +67,8 @@
             Text="je.spare2.mc-schale.com (时长开放) [TP转发(转发类型S)]" />
         <TextBlock Margin="0,0,0,4"
             Text="je.spare3.mc-schale.com (时长开放) [TP转发(转发类型M)]" />
+        <TextBlock Margin="0,0,0,4"
+            Text="TP转发类型节点将仅在分压时启用" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器规则更改:" />
         <TextBlock Margin="0,0,0,4"

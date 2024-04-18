@@ -20,6 +20,8 @@ PCL2主页文件获取：
 
 ## Java版节点信息
 
+注意：TP转发类型节点将仅在分压时启用
+
 ### Java版正式节点:
 
 >je.play1.mc-schale.com [Lcy]

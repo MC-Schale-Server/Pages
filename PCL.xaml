@@ -13,9 +13,9 @@
     <TextBlock Margin="10,6,0,5"
         Text="上一次维护结束时间: 2024/04/20 04:45" />
     <TextBlock Margin="10,6,0,5"
-        Text="维护期间，服务器将临时处于离线状态" />
+        Text="本次维护计划为热维护，" />
     <TextBlock Margin="10,6,0,5"
-        Text="请注意避开维护时段。" />
+        Text="需要冷维护时将提前通知。" />
     </StackPanel>
 </local:MyCard>
 
@@ -143,6 +143,9 @@
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="服务器地铁更新日志" EventType="打开网页"
             EventData="https://www.mc-schale.com/othersites/Markdown/Metro/Logs" />
+        <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
+            Text="打开服务器地图展示页（测试中）" EventType="打开网页"
+            EventData="https://map.mc-schale.com/" />
         <local:MyButton Margin="0,5,0,0" Width="250" Height="35"
             Text="打开服务器网站目录索引页" EventType="打开网页"
             EventData="https://www.mc-schale.com/othersites/Markdown/Index/" />

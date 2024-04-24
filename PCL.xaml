@@ -13,9 +13,9 @@
     <TextBlock Margin="10,6,0,5"
         Text="上一次维护结束时间: 2024/04/20 04:45" />
     <TextBlock Margin="10,6,0,5"
-        Text="本次维护计划为热维护，" />
+        Text="维护期间，服务器将临时处于离线状态" />
     <TextBlock Margin="10,6,0,5"
-        Text="需要冷维护时将提前通知。" />
+        Text="请注意避开维护时段。" />
     </StackPanel>
 </local:MyCard>
 

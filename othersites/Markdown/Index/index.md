@@ -31,3 +31,5 @@
 [服务器资源包构建库](https://github.com/MC-Schale-Server/Resource-packs)
 
 [服务器地铁更新日志](https://www.mc-schale.com/othersites/Markdown/Metro/Logs)
+
+[服务器地图展示页（测试中）](https://map.mc-schale.com/)

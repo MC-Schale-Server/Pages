@@ -1,4 +1,4 @@
-# MC-Schale 服务器 赞助记录 [2024/04/25修]
+# MC-Schale 服务器 赞助记录 [2024/04/29修]
 
 返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
 
@@ -43,7 +43,7 @@
  - `白子酱` 赞助了 `22.00` 元，MC用户名：`ShalangShiroko` 
  - `北纬` 赞助了 `56.00` 元，MC用户名：`Bei_Way`
  - `筱` 赞助了 `100.00` 元，MC用户名：`CasterYuuka_QX`
- - `努力努力再努力x` 赞助了 `4.00` 元
+ - `帅气的马哥` 赞助了 `4.00` 元
  - `Exe EIN` 赞助了 `75.00` 元
 
 ### 2024/03/23

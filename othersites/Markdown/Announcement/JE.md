@@ -1,4 +1,4 @@
-# MC-Schale 服务器 公告(Java版) [2024/04/30修]
+# MC-Schale 服务器 公告(Java版) [2024/05/03修]
 
 返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
 

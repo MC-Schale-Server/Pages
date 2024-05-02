@@ -1,4 +1,4 @@
-# MC-Schale 服务器 公告(全版本) [2024/04/30修]
+# MC-Schale 服务器 公告(全版本) [2024/05/03修]
 
 返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
 
@@ -61,11 +61,11 @@ PCL2主页文件获取：
 
 >be.play2.mc-schale.com (此IP端口12288) [Lcy]
 
->be.play3.mc-schale.com (此IP端口17865) [ME]
+>be.play3.mc-schale.com (此IP端口57471) [ME]
 
 #### 基岩版备用节点：
 
->be.spare1.mc-schale.com (此IP端口17773，常开) [ME]
+>be.spare1.mc-schale.com (此IP端口61989，常开) [ME]
 
 >be.spare2.mc-schale.com (此IP端口38097，时长开放) [TP转发(转发类型S)]
 

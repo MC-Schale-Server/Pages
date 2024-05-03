@@ -37,12 +37,12 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="MC-Schale 服务器 公告(Java版) [2024/04/30修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="MC-Schale 服务器 公告(Java版) [2024/05/03修]" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
             Text="服务端版本:Purpur1.20.1" />
         <TextBlock Margin="0,0,0,4"
-            Text="客户端版本:1.11~1.20.4" />
+            Text="客户端版本:1.11~1.20.6" />
         <TextBlock Margin="0,0,0,4"
             Text="服务器验证:正版验证+外置LittleSkin登陆(需要审核)" />
         <TextBlock Margin="0,0,0,4"
